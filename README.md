@@ -1,6 +1,6 @@
 # calculate_my_age
 
-A new Flutter project.
+Flutter Application to calculate someones age
 
 ## Getting Started
 
